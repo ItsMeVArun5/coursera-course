@@ -1,0 +1,15 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+
+h1 {
+   /* left margin */
+   margin-left: 10px;
+   /* text color  */
+   color: black;
+   /* Background color */
+   background-color: green;
+   /* border */
+   border: 2px solid red;
+}
+
