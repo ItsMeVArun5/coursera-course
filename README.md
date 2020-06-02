@@ -1,1 +1,1 @@
-# coursera-course
+# coursera courses
